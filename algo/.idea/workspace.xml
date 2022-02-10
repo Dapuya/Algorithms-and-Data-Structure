@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="algo" targetName="b.cpp" />
+      <config projectName="algo" targetName="quick_sort.cpp" />
+      <config projectName="algo" targetName="aho-korasik.cpp" />
+      <config projectName="algo" targetName="stack_with_pointer.cpp" />
+      <config projectName="algo" targetName="bst.cpp" />
+      <config projectName="algo" targetName="d.cpp" />
+      <config projectName="algo" targetName="merge.cpp" />
+      <config projectName="algo" targetName="e.cpp" />
+      <config projectName="algo" targetName="wrek.cpp" />
+      <config projectName="algo" targetName="heap.cpp" />
+      <config projectName="algo" targetName="secondmax.cpp" />
+      <config projectName="algo" targetName="linked_list.cpp" />
+      <config projectName="algo" targetName="bin_search.cpp" />
+      <config projectName="algo" targetName="a.cpp" />
+      <config projectName="algo" targetName="c.cpp" />
+      <config projectName="algo" targetName="trie.cpp" />
+      <config projectName="algo" targetName="ugly_numbers.cpp" />
+      <config projectName="algo" targetName="heap2.cpp" />
+      <config projectName="algo" targetName="111732.cpp" />
+      <config projectName="algo" targetName="stack.cpp" />
+      <config projectName="algo" targetName="hash.cpp" />
+      <config projectName="algo" targetName="stack2.cpp" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bcd7a63-dfc4-4461-a898-fd583939e74a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1zb6C58Nl3ZvbSp3Jm4aHFjUl5w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="CMake Application.111732.cpp">
+    <configuration name="111732.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="111732.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="111732.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="a.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="a.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aho-korasik.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="aho-korasik.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="aho-korasik.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="b.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="b.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="b.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bin_search.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="bin_search.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="bin_search.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bst.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="bst.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="bst.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="c.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="c.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="d.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="d.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="d.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="e.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="e.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="e.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hash.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="hash.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="hash.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="heap2.cpp" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="heap2.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="heap2.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="heap.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="heap.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="heap.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linked_list.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="linked_list.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="linked_list.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="merge.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="merge.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="merge.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quick_sort.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="quick_sort.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="quick_sort.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="secondmax.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="secondmax.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="secondmax.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stack2.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="stack2.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="stack2.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stack.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="stack.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="stack.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stack_with_pointer.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="stack_with_pointer.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="stack_with_pointer.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="trie.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="trie.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="trie.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ugly_numbers.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="ugly_numbers.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="ugly_numbers.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wrek.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algo" TARGET_NAME="wrek.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algo" RUN_TARGET_NAME="wrek.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.111732.cpp" />
+      <item itemvalue="CMake Application.a.cpp" />
+      <item itemvalue="CMake Application.aho-korasik.cpp" />
+      <item itemvalue="CMake Application.b.cpp" />
+      <item itemvalue="CMake Application.bin_search.cpp" />
+      <item itemvalue="CMake Application.bst.cpp" />
+      <item itemvalue="CMake Application.c.cpp" />
+      <item itemvalue="CMake Application.d.cpp" />
+      <item itemvalue="CMake Application.e.cpp" />
+      <item itemvalue="CMake Application.hash.cpp" />
+      <item itemvalue="CMake Application.heap.cpp" />
+      <item itemvalue="CMake Application.linked_list.cpp" />
+      <item itemvalue="CMake Application.merge.cpp" />
+      <item itemvalue="CMake Application.quick_sort.cpp" />
+      <item itemvalue="CMake Application.secondmax.cpp" />
+      <item itemvalue="CMake Application.stack.cpp" />
+      <item itemvalue="CMake Application.stack2.cpp" />
+      <item itemvalue="CMake Application.stack_with_pointer.cpp" />
+      <item itemvalue="CMake Application.trie.cpp" />
+      <item itemvalue="CMake Application.ugly_numbers.cpp" />
+      <item itemvalue="CMake Application.wrek.cpp" />
+      <item itemvalue="CMake Application.heap2.cpp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="CMake Application.heap2.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bcd7a63-dfc4-4461-a898-fd583939e74a" name="Changes" comment="" />
+      <created>1634404309935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634404309935</updated>
+      <workItem from="1634404311851" duration="5306000" />
+      <workItem from="1634445941055" duration="14033000" />
+      <workItem from="1634486454601" duration="1920000" />
+      <workItem from="1634644948729" duration="6116000" />
+      <workItem from="1635139061789" duration="10573000" />
+      <workItem from="1635412755975" duration="653000" />
+      <workItem from="1635565618516" duration="1037000" />
+      <workItem from="1635853856820" duration="4201000" />
+      <workItem from="1635941659984" duration="981000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dariya/Documents/GitHub/ADS/w8/lab_8/informatics/464.cpp
+iostream
+/Users/dariya/Documents/GitHub/ADS/w8/lab_8/informatics/iostream
+vector
+/Users/dariya/Documents/GitHub/ADS/w8/lab_8/informatics/vector
+

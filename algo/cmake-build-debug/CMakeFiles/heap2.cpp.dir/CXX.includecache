@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dariya/Documents/GitHub/ADS/algo/heap2.cpp
+iostream
+/Users/dariya/Documents/GitHub/ADS/algo/iostream
+

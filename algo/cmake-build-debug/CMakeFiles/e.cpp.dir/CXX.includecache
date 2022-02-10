@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dariya/Documents/GitHub/ADS/algo/e.cpp
+iostream
+/Users/dariya/Documents/GitHub/ADS/algo/iostream
+math.h
+/Users/dariya/Documents/GitHub/ADS/algo/math.h
+

@@ -1,0 +1,6 @@
+/Users/dariya/Documents/GitHub/ADS/midterm2020fall/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dariya/Documents/GitHub/ADS/midterm2020fall/cmake-build-debug/CMakeFiles/a.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/midterm2020fall/cmake-build-debug/CMakeFiles/e.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/midterm2020fall/cmake-build-debug/CMakeFiles/d.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/midterm2020fall/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dariya/Documents/GitHub/ADS/midterm2020fall/cmake-build-debug/CMakeFiles/main.cpp.dir

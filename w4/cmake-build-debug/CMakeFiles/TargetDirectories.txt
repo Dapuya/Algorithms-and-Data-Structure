@@ -1,0 +1,13 @@
+/Users/dariya/Documents/GitHub/ADS/w 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dariya/Documents/GitHub/ADS/w 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dariya/Documents/GitHub/ADS/w 4/cmake-build-debug/CMakeFiles/b.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/w 4/cmake-build-debug/CMakeFiles/h.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/w 4/cmake-build-debug/CMakeFiles/f.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/w 4/cmake-build-debug/CMakeFiles/quicksort.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/w 4/cmake-build-debug/CMakeFiles/e.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/w 4/cmake-build-debug/CMakeFiles/938_leetcode.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/w 4/cmake-build-debug/CMakeFiles/heap.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/w 4/cmake-build-debug/CMakeFiles/a.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/w 4/cmake-build-debug/CMakeFiles/max.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/w 4/cmake-build-debug/CMakeFiles/653_leetcode.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/w 4/cmake-build-debug/CMakeFiles/d.cpp.dir

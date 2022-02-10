@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dariya/Documents/GitHub/ADS/final2020/c.cpp
+iostream
+/Users/dariya/Documents/GitHub/ADS/final2020/iostream
+vector
+/Users/dariya/Documents/GitHub/ADS/final2020/vector
+queue
+/Users/dariya/Documents/GitHub/ADS/final2020/queue
+

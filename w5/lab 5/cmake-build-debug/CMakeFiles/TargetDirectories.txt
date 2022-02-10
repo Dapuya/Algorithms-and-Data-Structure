@@ -1,0 +1,8 @@
+/Users/dariya/Documents/GitHub/ADS/w 5/lab 5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dariya/Documents/GitHub/ADS/w 5/lab 5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dariya/Documents/GitHub/ADS/w 5/lab 5/cmake-build-debug/CMakeFiles/g.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/w 5/lab 5/cmake-build-debug/CMakeFiles/e.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/w 5/lab 5/cmake-build-debug/CMakeFiles/d.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/w 5/lab 5/cmake-build-debug/CMakeFiles/c.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/w 5/lab 5/cmake-build-debug/CMakeFiles/b.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/w 5/lab 5/cmake-build-debug/CMakeFiles/a.cpp.dir

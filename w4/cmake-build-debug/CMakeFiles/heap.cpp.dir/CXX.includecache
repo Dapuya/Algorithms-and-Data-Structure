@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dariya/Documents/GitHub/ADS/w 4/heap.cpp
+iostream
+/Users/dariya/Documents/GitHub/ADS/w 4/iostream
+vector
+/Users/dariya/Documents/GitHub/ADS/w 4/vector
+

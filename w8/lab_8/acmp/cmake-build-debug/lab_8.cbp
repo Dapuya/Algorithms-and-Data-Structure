@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lab_8"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="127_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/127_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 127_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="127_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/127_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 127_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="151_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/151_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 151_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="151_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/151_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 151_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="141_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/141_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 141_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="141_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/141_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 141_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1359_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1359_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1359_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1359_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1359_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1359_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1360_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1360_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1360_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1360_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1360_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1360_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1317_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1317_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1317_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1317_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1317_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1317_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="185_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/185_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 185_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="185_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/185_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 185_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="124_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/124_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 124_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="124_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/124_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 124_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="150_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/150_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 150_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="150_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/150_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 150_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1205_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1205_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1205_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1205_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1205_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1205_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="783_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/783_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 783_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="783_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/783_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 783_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1356_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1356_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1356_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1356_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1356_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1356_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1204_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1204_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1204_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1204_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1204_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1204_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="125_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/125_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 125_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="125_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/125_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 125_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="126_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/126_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 126_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="126_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/126_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 126_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1202_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1202_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1202_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1202_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1202_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1202_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1072_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1072_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1072_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1072_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1072_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1072_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1357_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1357_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1357_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1357_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1357_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1357_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="snake3.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/snake3.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 snake3.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="snake3.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/snake3.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 snake3.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="414_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/414_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 414_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="414_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/414_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 414_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="snake2.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/snake2.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 snake2.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="snake2.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/snake2.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 snake2.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1201_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1201_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1201_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1201_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1201_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1201_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1203_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1203_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1203_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1203_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1203_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1203_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="snake.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/snake.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 snake.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="snake.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/snake.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 snake.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1358_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1358_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1358_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1358_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/1358_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 1358_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="784_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/784_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 784_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="784_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/784_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 784_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="15_acmp.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/15_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 15_acmp.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="15_acmp.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/15_acmp.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 15_acmp.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/w8/lab_8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/1.cpp">
+			<Option target="1.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/1072_acmp.cpp">
+			<Option target="1072_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/1201_acmp.cpp">
+			<Option target="1201_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/1202_acmp.cpp">
+			<Option target="1202_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/1203_acmp.cpp">
+			<Option target="1203_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/1204_acmp.cpp">
+			<Option target="1204_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/1205_acmp.cpp">
+			<Option target="1205_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/124_acmp.cpp">
+			<Option target="124_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/125_acmp.cpp">
+			<Option target="125_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/126_acmp.cpp">
+			<Option target="126_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/127_acmp.cpp">
+			<Option target="127_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/1317_acmp.cpp">
+			<Option target="1317_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/1356_acmp.cpp">
+			<Option target="1356_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/1357_acmp.cpp">
+			<Option target="1357_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/1358_acmp.cpp">
+			<Option target="1358_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/1359_acmp.cpp">
+			<Option target="1359_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/1360_acmp.cpp">
+			<Option target="1360_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/141_acmp.cpp">
+			<Option target="141_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/150_acmp.cpp">
+			<Option target="150_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/151_acmp.cpp">
+			<Option target="151_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/15_acmp.cpp">
+			<Option target="15_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/185_acmp.cpp">
+			<Option target="185_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/414_acmp.cpp">
+			<Option target="414_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/783_acmp.cpp">
+			<Option target="783_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/784_acmp.cpp">
+			<Option target="784_acmp.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/snake.cpp">
+			<Option target="snake.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/snake2.cpp">
+			<Option target="snake2.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/snake3.cpp">
+			<Option target="snake3.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/w8/lab_8/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

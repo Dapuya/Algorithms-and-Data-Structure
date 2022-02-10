@@ -1,0 +1,3 @@
+/Users/dariya/Documents/GitHub/ADS/w2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dariya/Documents/GitHub/ADS/w2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dariya/Documents/GitHub/ADS/w2/cmake-build-debug/CMakeFiles/linked_list.cpp.dir

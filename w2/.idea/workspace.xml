@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="main" targetName="e.cpp" />
+      <config projectName="main" targetName="d.cpp" />
+      <config projectName="main" targetName="a.cpp" />
+      <config projectName="main" targetName="linked_list.cpp" />
+      <config projectName="main" targetName="b.cpp" />
+      <config projectName="main" targetName="21_leetcode.cpp" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="781578f4-9c2a-4ddb-98ca-d61163dbf930" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/lab_2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/a.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/a.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/a.cpp.dir/a.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/a.cpp.dir/a.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/a.cpp.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/a.cpp.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/b.cpp.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/b.cpp.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/e.cpp.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/e.cpp.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/e.cpp.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/e.cpp.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/linked_list.cpp.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/linked_list.cpp.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/cmake-build-debug/a.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/cmake-build-debug/a.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/cmake-build-debug/main.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/cmake-build-debug/main.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/cmake-build-debug/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/cmake-build-debug/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/e.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/e.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/input.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1yRIQnz704IhcbnRmreV7p7wAS9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab_2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.21_leetcode.cpp">
+    <configuration name="21_leetcode.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="main" TARGET_NAME="21_leetcode.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="main" RUN_TARGET_NAME="21_leetcode.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="main" TARGET_NAME="a.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="main" RUN_TARGET_NAME="a.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="b.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="main" TARGET_NAME="b.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="main" RUN_TARGET_NAME="b.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="d.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="main" TARGET_NAME="d.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="main" RUN_TARGET_NAME="d.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="e.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="main" TARGET_NAME="e.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="main" RUN_TARGET_NAME="e.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linked_list.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="main" TARGET_NAME="linked_list.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="main" RUN_TARGET_NAME="linked_list.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.21_leetcode.cpp" />
+      <item itemvalue="CMake Application.a.cpp" />
+      <item itemvalue="CMake Application.b.cpp" />
+      <item itemvalue="CMake Application.d.cpp" />
+      <item itemvalue="CMake Application.e.cpp" />
+      <item itemvalue="CMake Application.linked_list.cpp" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="781578f4-9c2a-4ddb-98ca-d61163dbf930" name="Changes" comment="" />
+      <created>1632207961282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632207961282</updated>
+      <workItem from="1632207964875" duration="8301000" />
+      <workItem from="1632282834917" duration="9744000" />
+      <workItem from="1632390111768" duration="6277000" />
+      <workItem from="1632456754144" duration="6785000" />
+      <workItem from="1632556036339" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

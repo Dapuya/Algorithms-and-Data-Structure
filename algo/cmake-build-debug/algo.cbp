@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="algo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="111732.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/111732.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 111732.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="111732.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/111732.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 111732.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="d.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/d.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 d.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="d.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/d.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 d.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/c.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 c.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/c.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 c.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aho-korasik.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/aho-korasik.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 aho-korasik.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aho-korasik.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/aho-korasik.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 aho-korasik.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hash.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/hash.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 hash.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hash.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/hash.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 hash.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="b.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/b.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 b.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="b.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/b.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 b.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/a.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 a.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/a.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 a.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="merge.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/merge.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 merge.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="merge.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/merge.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 merge.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quick_sort.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/quick_sort.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 quick_sort.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quick_sort.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/quick_sort.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 quick_sort.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="secondmax.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/secondmax.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 secondmax.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="secondmax.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/secondmax.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 secondmax.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wrek.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/wrek.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 wrek.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wrek.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/wrek.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 wrek.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack2.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/stack2.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 stack2.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack2.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/stack2.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 stack2.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="e.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/e.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 e.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="e.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/e.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 e.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/stack.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 stack.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/stack.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 stack.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="heap2.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/heap2.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 heap2.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="heap2.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/heap2.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 heap2.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="linked_list.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/linked_list.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 linked_list.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="linked_list.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/linked_list.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 linked_list.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trie.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/trie.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 trie.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trie.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/trie.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 trie.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ugly_numbers.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/ugly_numbers.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 ugly_numbers.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ugly_numbers.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/ugly_numbers.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 ugly_numbers.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack_with_pointer.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/stack_with_pointer.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 stack_with_pointer.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack_with_pointer.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/stack_with_pointer.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 stack_with_pointer.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bst.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/bst.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 bst.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bst.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/bst.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 bst.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bin_search.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/bin_search.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 bin_search.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bin_search.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/bin_search.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 bin_search.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="heap.cpp">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/heap.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 heap.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="heap.cpp/fast">
+				<Option output="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/heap.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 heap.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dariya/Documents/GitHub/ADS/algo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/111732.cpp">
+			<Option target="111732.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/a.cpp">
+			<Option target="a.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/aho-korasik.cpp">
+			<Option target="aho-korasik.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/b.cpp">
+			<Option target="b.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/bin_search.cpp">
+			<Option target="bin_search.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/bst.cpp">
+			<Option target="bst.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/c.cpp">
+			<Option target="c.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/d.cpp">
+			<Option target="d.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/e.cpp">
+			<Option target="e.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/hash.cpp">
+			<Option target="hash.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/heap.cpp">
+			<Option target="heap.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/heap2.cpp">
+			<Option target="heap2.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/linked_list.cpp">
+			<Option target="linked_list.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/merge.cpp">
+			<Option target="merge.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/quick_sort.cpp">
+			<Option target="quick_sort.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/secondmax.cpp">
+			<Option target="secondmax.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/stack.cpp">
+			<Option target="stack.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/stack2.cpp">
+			<Option target="stack2.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/stack_with_pointer.cpp">
+			<Option target="stack_with_pointer.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/trie.cpp">
+			<Option target="trie.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/ugly_numbers.cpp">
+			<Option target="ugly_numbers.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/wrek.cpp">
+			<Option target="wrek.cpp"/>
+		</Unit>
+		<Unit filename="/Users/dariya/Documents/GitHub/ADS/algo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,7 @@
+/Users/dariya/Documents/GitHub/ADS/w2/lab_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dariya/Documents/GitHub/ADS/w2/lab_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dariya/Documents/GitHub/ADS/w2/lab_2/cmake-build-debug/CMakeFiles/d.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/w2/lab_2/cmake-build-debug/CMakeFiles/e.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/w2/lab_2/cmake-build-debug/CMakeFiles/21_leetcode.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/w2/lab_2/cmake-build-debug/CMakeFiles/b.cpp.dir
+/Users/dariya/Documents/GitHub/ADS/w2/lab_2/cmake-build-debug/CMakeFiles/a.cpp.dir

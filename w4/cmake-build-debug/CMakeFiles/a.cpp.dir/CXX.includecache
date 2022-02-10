@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dariya/Documents/GitHub/ADS/w 4/a.cpp
+iostream
+/Users/dariya/Documents/GitHub/ADS/w 4/iostream
+math.h
+/Users/dariya/Documents/GitHub/ADS/w 4/math.h
+map
+-
+

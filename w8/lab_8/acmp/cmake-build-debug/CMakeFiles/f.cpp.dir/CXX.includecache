@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dariya/Documents/GitHub/ADS/w8/lab_8/acmp/f.cpp
+iostream
+/Users/dariya/Documents/GitHub/ADS/w8/lab_8/acmp/iostream
+vector
+/Users/dariya/Documents/GitHub/ADS/w8/lab_8/acmp/vector
+string
+/Users/dariya/Documents/GitHub/ADS/w8/lab_8/acmp/string
+
